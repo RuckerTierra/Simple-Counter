@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: lightcyan;
+}
+#subtract-btn {
+  background-color: lightcoral;
+}
+#add-btn {
+  background-color: lightgreen;
+}
+#reset-btn {
+  background-color: lightgoldenrodyellow;
+}
